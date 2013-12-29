@@ -1,24 +1,10 @@
 ///////////////////////////////////////////////////////////////////////////////
-//                   ALL STUDENTS COMPLETE THESE SECTIONS
 // Title:            WordSearch
 // Files:            WordSearch.java
-// Semester:         CS302 Fall 2013
 //
 // Author:           Minh Bui
 // Email:            mbui2@wisc.edu
 // CS Login:         minh@cs.wisc.edu
-// Lecturer's Name:  Shreedhar Hardikar
-// Lab Section:      (your lab section number)
-//
-//                   PAIR PROGRAMMERS COMPLETE THIS SECTION
-// Pair Partner:     none
-// Email:            none
-// CS Login:         none
-// Lecturer's Name:  none
-// Lab Section:      none
-//
-//                   STUDENTS WHO GET HELP FROM ANYONE OTHER THAN THEIR PARTNER
-// Credits:          (list anyone who helped you write your program)
 //////////////////////////// 80 columns wide //////////////////////////////////
 
 import java.util.ArrayList;
